@@ -1,4 +1,4 @@
-# cs3340-project
+# UTDallas - CS 3340 - Project
 CS 3340 - Computer Architecture Project
 
 This is the final project for my CS 3340 - Computer Architecture class at the University of Texas at Dallas.
